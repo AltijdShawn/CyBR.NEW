@@ -1,0 +1,16 @@
+# Initial stuff
+/node_modules/
+
+# Commands
+/commands/fun/owo.js
+/commands/testmoderation/
+/commands/UnderWorks/
+
+/_commands/
+
+# Other Stuff
+/@userland/
+/.history/
+## /.program.ts
+/json.sqlite
+/yarn.lock
